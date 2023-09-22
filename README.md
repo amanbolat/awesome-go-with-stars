@@ -2850,7 +2850,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Routers
 
-- <code>&nbsp;19007</code> [mux](https://github.com/gorilla/mux) - Powerful URL router and dispatcher for golang.
+- <code>&nbsp;19007</code> [gorilla/mux](https://github.com/gorilla/mux) - Powerful URL router and dispatcher for golang.
 - <code>&nbsp;15638</code> [httprouter](https://github.com/julienschmidt/httprouter) - High performance router. Use this and the standard http handlers to form a very high performance web framework.
 - <code>&nbsp;15028</code> [chi](https://github.com/go-chi/chi) - Small, fast and expressive HTTP router built on net/context.
 - <code>&nbsp;&nbsp;1500</code> [gocraft/web](https://github.com/gocraft/web) - Mux and middleware package in Go.
