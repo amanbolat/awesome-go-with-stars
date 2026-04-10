@@ -775,6 +775,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 21 | [rwdb](https://github.com/andizzle/rwdb) | rwdb provides read replica capability for multiple database servers setup. | 2017-11-08 |
 | - | [hasql](https://golang.yandex/hasql) | Library for accessing multi-host SQL database installations. | - |
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=amanbolat_awesome-go-with-stars) - Follow database engineers on GitHub and see what DB tools and ORMs they are checking out.
 ### SQL Query Builders
 
 | Stars | Name | Description | Last Commit |
